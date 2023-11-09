@@ -6,7 +6,7 @@ Run a mod by chatting "!run `assetId`". For example, chat "!run 15304569888" to 
 
 ## Creating a Mod
 
-Open [bird-mod-template.rbxl](https://github.com/JoeBrosnihan/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with a sample mod.
+Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with a sample mod.
 
 Find MainModule in the Workspace. It contains a bunch of zombie Models. You can delete these and add your own Models. They must be parented under MainModule.
 
