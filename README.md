@@ -28,6 +28,6 @@ Once you publish the asset, copy the number shown in the confirmation window. Th
 
 <img width="352" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/71c61ea9-6559-4276-b17e-141d9d81527f">
 
-Now join a VIP server and chat "!run `assetId`" with your asset id!
+Now join a VIP server and chat "!run `assetId`" with your asset id and the mod will run.
 
 <img width="643" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/93f2d4e5-483f-4441-9b4d-0f713880f9ee">
