@@ -20,22 +20,24 @@ You can add, change, or remove anything you want from MainModule. For example, y
 
 Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's Name or this will break.
 
-<img width="438" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f02deca7-2ef8-4670-8b7b-575e52ec74bc">
+<img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f02deca7-2ef8-4670-8b7b-575e52ec74bc">
 <img width="303" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/37d615ea-dcb0-468a-97e9-3203c94bedce">
 
 You'll see a publish window. Set whatever Title and Description you like. Make sure `Distribute on Marketplace` is enabled.
 
-<img width="930" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/813c240e-d07d-448f-b994-94e0f8582c89">
+<img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/813c240e-d07d-448f-b994-94e0f8582c89">
 
 Once you publish the asset, copy the number shown in the confirmation window. This is the asset's id which is needed to load the mod.
 
-<img width="389" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/91436685-238d-4cc0-a8d5-b56432d41ea0">
+<img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/91436685-238d-4cc0-a8d5-b56432d41ea0">
 
 Now join a private server and chat "!run `assetId`" with your asset id and the mod will run.
 
 <img width="1008" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/6a6735ba-1e13-46b4-b0cb-bf4db7e3761a">
 
 ## Bird Interaction
+
+This explains the flashlight and balloon.
 
 Whenever a Bird grabs or releases a prop that has a BindableEvent named "GrabUpdate", the BindableEvent will be fired. See the script inside the balloon for how a grab triggers popping the balloon.
 
