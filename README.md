@@ -1,6 +1,6 @@
 # BIRDmod
 
-Run custom mods in BIRD VIP servers.
+Run custom mods in BIRD private servers.
 
 Run a mod by chatting "!run `assetId`". For example, chat "!run 15304569888" to spawn zombies.
 
@@ -8,26 +8,29 @@ Run a mod by chatting "!run `assetId`". For example, chat "!run 15304569888" to 
 
 Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with a sample mod.
 
-Find MainModule in the Workspace. It contains a bunch of zombie Models. You can delete these and add your own Models. They must be parented under MainModule.
+Find MainModule in the Workspace. It contains a bunch of zombies, a flashlight, and a balloon.
 
-<img width="1667" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/89b34c6b-cd17-4117-827e-3c94e2b6e8bf">
+<img width="1533" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/b0435304-29fd-4303-a159-a20f5a0c2eec">
 
-MainModule has some code which takes its children and adds them to the Workspace. Running the mod will run MainModule's code. You can replace this with your own code if you like.
+You can add, change, or remove anything you want from MainModule. For example, you can add a McDonalds, HD Admin commands, and even your own Scripts. When the mod runs, everything parented under MainModule will get inserted into the Workspace in BIRD.
+
+<img width="1273" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/5fd32569-4b71-4f31-af56-ac35e88c0268">
 
 ## Publishing the Mod
 
-Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's name or this will break.
+Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's Name or this will break.
 
-<img width="420" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/658de4a7-e329-43df-87c9-2cf27338fd24">
+<img width="438" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f02deca7-2ef8-4670-8b7b-575e52ec74bc">
+<img width="303" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/37d615ea-dcb0-468a-97e9-3203c94bedce">
 
-You'll see a publish window. Here it's ok to publish the mod with whatever Title and Description you want. Click to enable `Distribute on Marketplace`.
+You'll see a publish window. Set whatever Title and Description you like. Make sure `Distribute on Marketplace` is enabled.
 
-<img width="929" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/c338a9eb-bf10-4587-91ba-94bb8f6f2e70">
+<img width="930" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/813c240e-d07d-448f-b994-94e0f8582c89">
 
 Once you publish the asset, copy the number shown in the confirmation window. This is the asset's id which is needed to load the mod.
 
-<img width="352" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/71c61ea9-6559-4276-b17e-141d9d81527f">
+<img width="389" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/91436685-238d-4cc0-a8d5-b56432d41ea0">
 
-Now join a VIP server and chat "!run `assetId`" with your asset id and the mod will run.
+Now join a private server and chat "!run `assetId`" with your asset id and the mod will run.
 
-<img width="643" alt="image" src="https://github.com/JoeBrosnihan/BIRDmod/assets/9636197/93f2d4e5-483f-4441-9b4d-0f713880f9ee">
+<img width="1008" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/6a6735ba-1e13-46b4-b0cb-bf4db7e3761a">
