@@ -34,3 +34,15 @@ Once you publish the asset, copy the number shown in the confirmation window. Th
 Now join a private server and chat "!run `assetId`" with your asset id and the mod will run.
 
 <img width="1008" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/6a6735ba-1e13-46b4-b0cb-bf4db7e3761a">
+
+## Bird Interaction
+
+Whenever a Bird grabs or releases a prop that has a BindableEvent named "GrabUpdate", the BindableEvent will be fired. See the script inside the balloon for how a grab triggers popping the balloon.
+
+<img width="162" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/90514ba6-87de-4e06-b48e-735b1544fcbe">
+
+Whenever a Bird squawks while holding a prop with a BindableEvent named "SquawkEvent", the BindableEvent will be fired. See the script inside the flashlight for how a squawk turns the flashlight on and off. If the SquawkEvent has a child BoolValue named "MuteSquawk" whose Value is true, the BIRD will activate the prop without squawking.
+
+<img width="306" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/32387e01-d24d-4e95-992f-bcbe44da104b">
+
+Both of these BindableEvents can be parented to the grabbed Part (like in the balloon) or to the Parent of the grabbed Part (like in the flashlight).
