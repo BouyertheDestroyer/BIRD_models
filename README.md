@@ -20,8 +20,8 @@ You can add, change, or remove anything you want from MainModule. For example, y
 
 Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's Name or this will break.
 
-<img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f02deca7-2ef8-4670-8b7b-575e52ec74bc">
-<img width="303" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/37d615ea-dcb0-468a-97e9-3203c94bedce">
+<img alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f02deca7-2ef8-4670-8b7b-575e52ec74bc">
+<img alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/37d615ea-dcb0-468a-97e9-3203c94bedce">
 
 You'll see a publish window. Set whatever Title and Description you like. Make sure `Distribute on Marketplace` is enabled.
 
