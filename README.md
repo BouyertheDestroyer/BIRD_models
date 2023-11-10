@@ -47,4 +47,4 @@ Whenever a Bird squawks while holding a prop with a BindableEvent named "SquawkE
 
 <img width="306" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/32387e01-d24d-4e95-992f-bcbe44da104b">
 
-Both of these BindableEvents can be parented to the grabbed Part (like in the balloon) or to the Parent of the grabbed Part (like in the flashlight).
+Both of these BindableEvents can be parented to the grabbed Part (like in the balloon) or to the Parent of a grabbed Part (like in the flashlight).
