@@ -39,7 +39,7 @@ Now join a private server and chat "!run `assetId`" with your asset id and the m
 
 This explains the flashlight and balloon.
 
-Whenever a Bird grabs or releases a prop that has a BindableEvent named "GrabUpdate", the BindableEvent will be fired. See the script inside the balloon for how a grab triggers popping the balloon.
+Whenever a Bird grabs or releases a prop that has a BindableEvent named "GrabUpdate", the BindableEvent will be fired. See the script inside the balloon for how a grab triggers popping the balloon. The arguments passed to the event are 1) the Player grabbing the object (use `Player.Character` to get the bird Model) and 2) a bool whether the object is being grabbed (true) or released (false).
 
 <img width="162" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/90514ba6-87de-4e06-b48e-735b1544fcbe">
 
