@@ -51,6 +51,6 @@ Both of these BindableEvents can be parented to the grabbed Part (like in the ba
 
 ## Respawning
 
-Any Part or Model with the `Cleanup` [Tag](https://create.roblox.com/docs/reference/engine/classes/CollectionService) will be destroyed after staying still for a couple minutes. Anything with the `Respawn` [Tag](https://create.roblox.com/docs/reference/engine/classes/CollectionService) will respawn when removed. Important props should have both tags so they respawn if they get lost and abandoned in a hole.
+Any Part or Model with the `Cleanup` [Tag](https://create.roblox.com/docs/reference/engine/classes/CollectionService) will be destroyed after staying still for a couple minutes. Anything with the `Respawn` Tag will respawn when removed. Important props should have both tags so they respawn if they get lost and abandoned in a hole.
 <img width="205" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/bf22cd68-4e6b-4621-94dd-e1fe9e5b2ab9">
 
