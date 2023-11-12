@@ -39,4 +39,4 @@ Now join a private server and chat "!run `assetId`" with your asset id and the m
 
 BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRDsystems.md) to make mods that interact with bird grabbing, squawking, fire, prop respawning, and more.
 
-<img width="157" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f89cbf97-09ed-478c-85e3-28e05300f378">
+<img width="629" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/67bcaf7a-82c2-4bd4-bd6a-26f6160d87c3">
