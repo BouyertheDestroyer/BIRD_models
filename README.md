@@ -1,4 +1,4 @@
-# BIRDmod
+<img width="505" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/1d4b87a1-52c7-40f8-9116-00301564f395"># BIRDmod
 
 Run custom mods in BIRD private servers.
 
@@ -52,5 +52,13 @@ Both of these BindableEvents can be parented to the grabbed Part (like in the ba
 ## Respawning
 
 Any Part or Model with the `Cleanup` [Tag](https://create.roblox.com/docs/reference/engine/classes/CollectionService) will be destroyed after staying still for a couple minutes. Anything with the `Respawn` Tag will respawn when removed. Important props should have both tags so they respawn if they get lost and abandoned in a hole.
+
 <img width="205" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/bf22cd68-4e6b-4621-94dd-e1fe9e5b2ab9">
 
+## Fire
+
+Ignite a part by calling `game.ServerScriptService.Fire.ManuallyIgnite:Fire(part)`. When a part ignites, two things happen:
+1. A StringValue named "FireTag" gets inserted into the part. When the fire extinguishes, it is removed.
+2. Any BindableEvent named "FireUpdate" in the part or the part's Parent will fire with a `true` argument. (When the fire extinguishes, it will fire with `false`).
+
+<img width="157" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f89cbf97-09ed-478c-85e3-28e05300f378">
