@@ -1,4 +1,4 @@
-<img width="505" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/1d4b87a1-52c7-40f8-9116-00301564f395"># BIRDmod
+# BIRDmod
 
 Run custom mods in BIRD private servers.
 
