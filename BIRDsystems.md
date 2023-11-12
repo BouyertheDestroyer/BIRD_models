@@ -1,6 +1,6 @@
 # BIRD Systems
 
-This explains the systems in BIRD which can be used by mods.
+This explains the systems in BIRD that mods can use.
 
 ## Bird Interaction
 
