@@ -1,4 +1,4 @@
-## BIRD Systems
+# BIRD Systems
 
 This explains the systems in BIRD which can be used by mods.
 
