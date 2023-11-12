@@ -57,7 +57,11 @@ Any Part or Model with the `Cleanup` [Tag](https://create.roblox.com/docs/refere
 
 ## Fire
 
-Ignite a part by calling `game.ServerScriptService.Fire.ManuallyIgnite:Fire(part)`. When a part ignites, two things happen:
+Ignite a part by calling `game.ServerScriptService.Fire.ManuallyIgnite:Fire(part)`.
+
+![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/ce3109b5-c328-487f-840e-ac1f120d8035)
+
+When a part ignites, two things happen:
 1. A StringValue named "FireTag" gets inserted into the part. When the fire extinguishes, it is removed.
 2. Any BindableEvent named "FireUpdate" in the part or the part's Parent will fire with a `true` argument. When the fire extinguishes, it will fire with `false`.
 
