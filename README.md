@@ -1,6 +1,6 @@
 # BIRDmod
 
-Run custom mods in BIRD private servers.
+Import Models and Scripts from Roblox Studio to BIRD private servers.
 
 Run a mod by chatting "!run `assetId`". For example, chat "!run 15304569888" to spawn zombies.
 
@@ -31,7 +31,15 @@ Once you publish the asset, copy the number shown in the confirmation window. Th
 
 <img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/91436685-238d-4cc0-a8d5-b56432d41ea0">
 
-Now join a private server and chat "!run `assetId`" with your asset id and the mod will run.
+Now join a private server, open the mod manager, create a mod and edit it.
+
+![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/68c880f0-e86c-48d0-8ec5-db4827c73444)
+
+Paste the assetId and click the check mark. Here you can also change the mod title, description, thumbnail image asset id, and whether your mod is publicly shared with other players.
+
+![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/ed067008-e223-49a5-a9fa-7e89b044ec78)
+
+Press the Play button to run your mod.
 
 <img width="1008" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/6a6735ba-1e13-46b4-b0cb-bf4db7e3761a">
 
