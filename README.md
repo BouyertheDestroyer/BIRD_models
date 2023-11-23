@@ -2,7 +2,9 @@
 
 Import Models and Scripts from Roblox Studio to BIRD private servers.
 
-Run a mod by chatting "!run `assetId`". For example, chat "!run 15304569888" to spawn zombies.
+![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/cfabff09-1dbc-4f38-ad55-39eafca7d22c)
+
+Run a mod through the mod manager UI or by chatting "!run `assetId`". For example, chat "!run 15304569888" to spawn zombies.
 
 ## Creating a Mod
 
