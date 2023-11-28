@@ -6,7 +6,7 @@ Insert models from Roblox Studio to BIRD private servers.
 
 Insert a model through the mod manager UI. You can also chat "!insert `assetId`". For example, "!insert 15304569888" to spawn zombies.
 
-## Preparing Models
+## Preparing models
 
 Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample models.
 
@@ -18,7 +18,7 @@ You can add, change, or remove anything you want from MainModule. For example, y
 
 <img width="1273" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/5fd32569-4b71-4f31-af56-ac35e88c0268">
 
-## Publishing Models
+## Publishing models
 
 Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's Name or this will break.
 
@@ -45,7 +45,7 @@ Press the Play button to insert your model.
 
 <img width="1008" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/6a6735ba-1e13-46b4-b0cb-bf4db7e3761a">
 
-## BIRD Systems
+## BIRD systems
 
 BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRDsystems.md) to make models that interact with bird grabbing, squawking, fire, prop respawning, and more.
 
