@@ -1,14 +1,14 @@
 # BIRD models
 
-Insert Models from Roblox Studio to BIRD private servers.
+Insert models from Roblox Studio to BIRD private servers.
 
 ![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/cfabff09-1dbc-4f38-ad55-39eafca7d22c)
 
 Insert a model through the mod manager UI. You can also chat "!insert `assetId`". For example, "!insert 15304569888" to spawn zombies.
 
-## Preparing Models
+## Preparing models
 
-Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample Models.
+Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample models.
 
 Find MainModule in the Workspace. It contains a bunch of zombies, a flashlight, and a balloon.
 
@@ -18,7 +18,7 @@ You can add, change, or remove anything you want from MainModule. For example, y
 
 <img width="1273" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/5fd32569-4b71-4f31-af56-ac35e88c0268">
 
-## Publishing Models
+## Publishing models
 
 Select MainModule, right click, and choose `Save to Roblox...`. Do not change MainModule's Name or this will break.
 
@@ -29,7 +29,7 @@ You'll see a publish window. Make sure `Distribute on Marketplace` is enabled.
 
 <img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/813c240e-d07d-448f-b994-94e0f8582c89">
 
-Once you publish the asset, copy the asset id number shown in the confirmation window. It will be needed to insert the Models.
+Once you publish the asset, copy the asset id number shown in the confirmation window. It will be needed to insert the models.
 
 <img width="300" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/91436685-238d-4cc0-a8d5-b56432d41ea0">
 
