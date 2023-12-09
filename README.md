@@ -1,7 +1,7 @@
+# BIRD model
+
 > [!WARNING]  
 > As of December 9, there are new instructions for creating models directly in BIRD. The screenshots here are slightly out of date, but the main idea is still the same.
-
-# BIRD model
 
 Insert models from Roblox Studio to BIRD private servers.
 
