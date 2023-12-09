@@ -1,4 +1,4 @@
-# BIRD models
+# BIRD model
 
 Insert models from Roblox Studio to BIRD private servers.
 
@@ -7,6 +7,10 @@ Insert models from Roblox Studio to BIRD private servers.
 Insert a model through the mod manager UI. You can also chat "!insert `assetId`". For example, "!insert 15304569888" to spawn zombies.
 
 ## Preparing models
+
+> [!IMPORTANT]  
+> As of December 9, a new way to create models is listed within the BIRD menu. Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them.
+> If you don't need your model at a specific position, the new method is recommended.
 
 Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample models.
 
