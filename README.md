@@ -8,10 +8,10 @@ Insert a model through the mod manager UI. You can also chat "!insert `assetId`"
 
 ## Preparing models
 
-> [!IMPORTANT]  
-> As of December 9, a new way to create models is listed within the BIRD menu. Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them.
+> [!WARNING]  
+> As of December 9, a new way to create models is listed within the BIRD menu. The screenshots here are slightly out of date, but the main idea is still the same.
 >
-> The new method is recommended unless you want your model at a specific position.
+> Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them. The new method is recommended unless you want your model at a specific position.
 
 Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample models.
 
