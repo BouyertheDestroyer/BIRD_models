@@ -1,3 +1,6 @@
+> [!WARNING]  
+> As of December 9, there are new instructions for creating models directly in BIRD. The screenshots here are slightly out of date, but the main idea is still the same.
+
 # BIRD model
 
 Insert models from Roblox Studio to BIRD private servers.
@@ -8,10 +11,10 @@ Insert a model through the mod manager UI. You can also chat "!insert `assetId`"
 
 ## Preparing models
 
-> [!WARNING]  
-> As of December 9, there are new instructions for creating models directly in BIRD. The screenshots here are slightly out of date, but the main idea is still the same.
+> [!IMPORTANT]
+> Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them.
 >
-> Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them. The new method is recommended unless you want your model at a specific position.
+> The new method is recommended unless you want your model at a specific position.
 
 Open [bird-mod-template.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-mod-template.rbxl) in Roblox Studio. This is a limited copy of the map with some sample models.
 
