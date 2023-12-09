@@ -12,7 +12,7 @@ Insert a model through the mod manager UI. You can also chat "!insert `assetId`"
 ## Preparing models
 
 > [!IMPORTANT]
-> Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you published them.
+> Models created with the new method will spawn near your bird. Models created with the old method described below will spawn at the absolute position where you publish them.
 >
 > The new method is recommended unless you want your model at a specific position.
 
