@@ -31,3 +31,10 @@ When a part ignites, two things happen:
 2. Any BindableEvent named "FireUpdate" in the part or the part's Parent will fire with a `true` argument. When the fire extinguishes, it will fire with `false`.
 
 <img width="157" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/f89cbf97-09ed-478c-85e3-28e05300f378">
+
+## InsertedBy
+
+Every inserted Model has an `InsertedBy` Attribute set to the string name of the user who inserted the Model.
+
+![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/e35e681a-8312-4286-89df-93523c7869a2)
+
