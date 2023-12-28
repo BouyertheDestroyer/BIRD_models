@@ -2,6 +2,8 @@
 
 Insert models from Roblox Studio to [BIRD]([url](https://www.roblox.com/games/3633505977/BIRD)) private servers.
 
+[BIRD](https://www.roblox.com/games/3633505977/BIRD)
+
 View the instructions for inserting a model directly from within BIRD.
 
 ## BIRD systems
