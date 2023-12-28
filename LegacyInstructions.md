@@ -5,7 +5,7 @@
 > Creating models with the instructions below is not recommended.
 
 > [!WARNING]  
-> Due to limitations with this old setup, models made with these instructions can only be inserted once per session. Other features may not work with them.
+> Due to limitations with this old setup, models made with these instructions can only be inserted once per session. Other features may also not work.
 
 Insert models from Roblox Studio to BIRD private servers.
 
