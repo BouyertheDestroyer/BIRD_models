@@ -1,8 +1,6 @@
 # BIRD models
 
-Insert models from Roblox Studio to [BIRD]([url](https://www.roblox.com/games/3633505977/BIRD)) private servers.
-
-[BIRD](https://www.roblox.com/games/3633505977/BIRD)
+Insert models from Roblox Studio to [BIRD](https://www.roblox.com/games/3633505977/BIRD) private servers.
 
 View the instructions for inserting a model directly from within BIRD.
 
@@ -14,4 +12,4 @@ BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRD
 
 ## Legacy Models
 
-Prior to December 9, 2023, models were made ![with the old instructions](LegacyInstructions.md). However, these models will eventually no longer be supported. Use the instructions in-game.
+Prior to December 9, 2023, models were made ![with the old instructions](LegacyInstructions.md). These models will eventually no longer be supported. Use the new instructions in-game.
