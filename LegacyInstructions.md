@@ -4,6 +4,9 @@
 > As of December 9, there are new instructions for creating models directly in BIRD. View the latest instructions directly in game.
 > Creating models with the instructions below is not recommended.
 
+> [!WARNING]  
+> Due to limitations with this old setup, models made with these instructions can only be inserted once per session. Other features may not work with them.
+
 Insert models from Roblox Studio to BIRD private servers.
 
 ![image](https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/cfabff09-1dbc-4f38-ad55-39eafca7d22c)
