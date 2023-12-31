@@ -10,6 +10,12 @@ BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRD
 
 <img width="629" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/67bcaf7a-82c2-4bd4-bd6a-26f6160d87c3">
 
+## Testing Models in Studio
+
+[bird-testing-grounds.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-testing-grounds.rbxl) provides a basic test environment including a bird and an example model. You can use this bird to test your model.
+
+![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/8ac97549-fbad-49e7-96a0-989b56f46cdf)
+
 ## Legacy Models
 
 Prior to December 9, 2023, models were made ![with the old instructions](LegacyInstructions.md). These models will eventually no longer be supported. Use the new instructions in-game.
