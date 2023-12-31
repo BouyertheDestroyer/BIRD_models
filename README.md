@@ -14,7 +14,7 @@ BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRD
 
 [bird-testing-grounds.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-testing-grounds.rbxl) provides a basic test environment including a bird and an example model. You can use this bird to test your model.
 
-![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/8ac97549-fbad-49e7-96a0-989b56f46cdf)
+![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/058f8fc4-4f8f-46e2-a761-91c65e49e601)
 
 ## Legacy Models
 
