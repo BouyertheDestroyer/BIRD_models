@@ -12,7 +12,7 @@ BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRD
 
 ## Testing Models in Studio
 
-[bird-testing-grounds.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-testing-grounds.rbxl) is a basic test environment including a bird and example model. You can insert your model and test it.
+[bird-testing-grounds.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-testing-grounds.rbxl) is a basic test environment including a bird and example model. You can insert your model and test it here.
 
 ![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/058f8fc4-4f8f-46e2-a761-91c65e49e601)
 
