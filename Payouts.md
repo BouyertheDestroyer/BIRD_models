@@ -7,7 +7,8 @@ Once every week, every model maker earns the sum of
 - An amount of robux calculated from how many times each of their models was used in the past week (details below)
 
 The payout for everyone at the same time, usually on Sundays. When the payout has been made, we post a summary in discord for transparency. Here's an example of Robux distributed in a past week. The 16 most-inserted model makers earned over 1k robux each this week.
-![image](https://github.com/user-attachments/assets/f36490e2-a783-4294-b3b8-38c131565776)
+
+<img src="https://github.com/user-attachments/assets/f36490e2-a783-4294-b3b8-38c131565776" alt="Robux distribution example" width="500"/>
 
 > **⚠️ Note:** Unfortunately, we can't distribute earned robux to everyone every week.
 > There are over 150 model-makers earning robux every week, so we don't have time to pay everyone.
@@ -21,7 +22,8 @@ Each model earns an amount of robux calculated from how many times it was used.
 We have a pool of 40k robux each week. A specific model earns robux equal to the total 40k pool * ( number of times the model was used / number of times all models were used ), considering uses only from the past week.
 
 We post top model usage summaries in the discord. Here's an example from a previous week. The vertical axis is the number of sessions the model was used in.
-![image](https://github.com/user-attachments/assets/340e9c46-f908-4bef-b609-db222ad96201)
+
+<img src="https://github.com/user-attachments/assets/340e9c46-f908-4bef-b609-db222ad96201" alt="Model usage summary" width="500"/>
 
 ## Tips
 
