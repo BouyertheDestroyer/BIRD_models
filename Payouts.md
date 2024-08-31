@@ -1,3 +1,5 @@
+# Model Payouts
+
 BIRD offers a unique opportunity for model makers to earn revenue from their creations on Roblox. We value the creativity of our community, and to support that, we share a portion of the revenue with anyone who adds a model to BIRD.
 
 ### How it Works
