@@ -12,7 +12,7 @@ The payout for everyone at the same time, usually on Sundays. When the payout ha
 > **⚠️ Note:** Unfortunately, we can't distribute earned robux to everyone every week.
 > There are over 150 model-makers earning robux every week, so we don't have time to pay everyone.
 > We distribute robux to the 50 model makers who've earned the most, and store the rest as a credit.
-> This credit adds up over time until a model maker is in the top 50 of owed robux. On that week, we will send them their robux.
+> This credit adds up each week until a model maker is in the top 50 of owed robux. On that week, we send them their robux and reset their credit.
 
 ## Payout Calculation
 
