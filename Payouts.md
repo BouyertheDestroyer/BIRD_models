@@ -1,6 +1,6 @@
 BIRD offers a unique opportunity for model makers to earn revenue from their creations on Roblox. We value the creativity of our community, and to support that, we share a portion of the revenue with anyone who adds a model to BIRD.
 
-## How it Works
+### How it Works
 
 Once every week, every model maker earns the sum of
 - 200 robux if they made a new public model in the past week
@@ -15,7 +15,7 @@ The payout for everyone at the same time, usually on Sundays. When the payout ha
 > We distribute robux to the 50 model makers who've earned the most, and store the rest as a credit.
 > This credit adds up each week until a model maker is in the top 50 of owed robux. On that week, we send them their robux and reset their credit.
 
-## Payout Calculation
+### Payout Calculation
 
 Each model earns an amount of robux calculated from how many times it was used.
 
@@ -25,7 +25,7 @@ We post top model usage summaries in the discord. Here's an example from a previ
 
 <img src="https://github.com/user-attachments/assets/340e9c46-f908-4bef-b609-db222ad96201" alt="Model usage summary" width="500"/>
 
-## Tips
+### Tips
 
 We notice a few patterns that may be helpful for making popular models and earning more robux.
 - Popular models tend to have good thumbnails. Taking time to upload an image for your thumbnail may be better than using an auto-generated thumbnail.
