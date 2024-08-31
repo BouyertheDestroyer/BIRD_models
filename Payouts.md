@@ -34,6 +34,6 @@ We notice a few patterns that may be helpful for making popular models and earni
 - Popular models tend to have good thumbnails. Taking time to upload an image for your thumbnail may be better than using an auto-generated thumbnail.
 - Top earning model makers tend to have a large quantity of models. Each model earns robux, so having more models adds up.
 
-Here are the current most popular models. We sometimes discuss patterns of successful models and model makers in the discord.
+Here are the most popular models of August 2024. We sometimes discuss patterns of successful models and model makers in the discord.
 
 <img src="https://github.com/user-attachments/assets/98221b5b-f769-4532-9cb7-8ff183a8d2a2" alt="Description of the image" width="500"/>
