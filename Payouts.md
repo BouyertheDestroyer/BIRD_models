@@ -8,7 +8,7 @@ Once every week, every model maker earns the sum of
 - 200 robux if they made a new public model in the past week
 - An amount of robux calculated from how many times each of their models was used in the past week (details below)
 
-The payout for everyone at the same time, usually on Sundays. When the payout has been made, we post a summary in discord for transparency. Here's an example of Robux distributed in a past week. The 16 most-inserted model makers earned over 1k robux each this week.
+The payout happens for everyone at the same time, usually on Sundays. When the payout has been made, we post a summary in discord for transparency. Here's an example of Robux distributed in a past week. The 16 most-inserted model makers earned over 1k robux each this week.
 
 <img src="https://github.com/user-attachments/assets/f36490e2-a783-4294-b3b8-38c131565776" alt="Robux distribution example" width="500"/>
 
