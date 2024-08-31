@@ -33,4 +33,4 @@ We notice a few patterns that may be helpful for making popular models and earni
 
 Here are the current most popular models. We sometimes discuss patterns of successful models and model makers in the discord.
 
-<img src="https://github.com/user-attachments/assets/feb09b70-498e-4a7a-b521-370360799230" alt="Description of the image" width="500"/>
+<img src="https://github.com/user-attachments/assets/98221b5b-f769-4532-9cb7-8ff183a8d2a2" alt="Description of the image" width="500"/>
