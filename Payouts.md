@@ -2,12 +2,17 @@ Our game offers a unique opportunity for model makers to earn revenue from their
 
 ## How it Works
 
-Once every week, every model maker receives the sum of
+Once every week, every model maker earns the sum of
 - 200 robux if they made a new public model in the past week
 - An amount of robux calculated from how many times each of their models was used in the past week (details below)
 
 The payout for everyone at the same time, usually on Sundays. When the payout has been made, we post a summary in discord for transparency. Here's an example of Robux distributed in a past week. The 16 most-inserted model makers earned over 1k robux each this week.
 ![image](https://github.com/user-attachments/assets/f36490e2-a783-4294-b3b8-38c131565776)
+
+> **⚠️ Note:** Unfortunately, we can't distribute earned robux to everyone every week.
+> There are over 150 model-makers earning robux every week, so we don't have time to pay everyone.
+> We distribute robux to the 50 model makers who've earned the most, and store the rest as a credit.
+> This credit adds up over time until a model maker is in the top 50 of owed robux. On that week, we will send them their robux.
 
 ## Payout Calculation
 
