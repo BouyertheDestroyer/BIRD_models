@@ -2,7 +2,7 @@
 
 BIRD offers a unique opportunity for model makers to earn revenue from their creations on Roblox. We value the creativity of our community and believe they should be compensated for their contributions.
 
-### How it Works
+### How Payouts Work
 
 Once every week, every model maker earns the sum of
 - 200 robux if they made a new public model in the past week
