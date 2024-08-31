@@ -29,5 +29,8 @@ We post top model usage summaries in the discord. Here's an example from a previ
 
 We notice a few patterns that may be helpful for making popular models and earning more robux.
 - Popular models tend to have good thumbnails. Taking time to upload an image for your thumbnail may be better than using an auto-generated thumbnail.
-- Popular models tend to be uniquely made for BIRD. They have novel ideas and scripted interactions.
-- Top earning model makers have built up a collection of high quality models. A larger quantity of high quality models tends to earn more than a lower quantity.
+- Top earning model makers tend to have a large quantity of models. Each model earns robux, so having more models adds up.
+
+Here are the current most popular models. We sometimes discuss patterns of successful models and model makers in the discord.
+
+<img src="https://github.com/user-attachments/assets/feb09b70-498e-4a7a-b521-370360799230" alt="Description of the image" width="500"/>
