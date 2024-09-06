@@ -1,21 +1,15 @@
 # BIRD models
 
-Insert models from Roblox Studio to [BIRD](https://www.roblox.com/games/3633505977/BIRD) private servers.
+Create models in Roblox Studio and use them in the game [BIRD](https://www.roblox.com/games/3633505977/BIRD).
 
-View the instructions for inserting a model directly from within BIRD.
+To create a model, edit our [template place](https://www.roblox.com/games/16445466869/Model-Examples). The place includes instructions to publish your model to the Roblox Toolbox then register it in BIRD.
 
-## BIRD systems
+<img src="https://github.com/user-attachments/assets/230b78a2-1cde-4976-bdd1-6131c47e7b1f" width="600" />
 
-BIRD has systems that add functionality and interaction. See ![BIRDsystems](BIRDsystems.md) to make models that interact with bird grabbing, squawking, fire, prop respawning, and more.
+## Payouts
 
-<img width="629" alt="image" src="https://github.com/BouyertheDestroyer/BIRDmod/assets/150331530/67bcaf7a-82c2-4bd4-bd6a-26f6160d87c3">
+Anyone who makes a model players like can [earn Robux](Payouts.md).
 
-## Testing Models in Studio
+<img src="https://github.com/user-attachments/assets/19bf3074-c911-46f6-97d2-64b0da53780a" width="600" />
 
-[bird-testing-grounds.rbxl](https://github.com/BouyertheDestroyer/BIRDmod/raw/main/bird-testing-grounds.rbxl) is a basic test environment including a bird and example model. You can insert your model and test it here.
 
-![image](https://github.com/BouyertheDestroyer/BIRD_models/assets/150331530/058f8fc4-4f8f-46e2-a761-91c65e49e601)
-
-## Legacy Models
-
-Prior to December 9, 2023, models were made ![with the old instructions](LegacyInstructions.md). These models will eventually no longer be supported. Use the new instructions in-game.
