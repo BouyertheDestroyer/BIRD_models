@@ -12,4 +12,4 @@ Anyone who makes a model players like can [earn Robux](Payouts.md).
 
 <img src="https://github.com/user-attachments/assets/19bf3074-c911-46f6-97d2-64b0da53780a" width="600" />
 
-
+See ![BIRDsystems](BIRDsystems.md) add advanced functionality to your models.
