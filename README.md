@@ -4,9 +4,9 @@ Create models in Roblox Studio and use them in the game [BIRD](https://www.roblo
 
 To create a model, edit our [template place](https://www.roblox.com/games/16445466869/Model-Examples). The place includes instructions to publish your model to the Roblox Toolbox then register it in BIRD.
 
-See [BIRD Systems](BIRDsystems.md) and [Map Models](MapModels.md) to make advanced models.
-
 <img src="https://github.com/user-attachments/assets/230b78a2-1cde-4976-bdd1-6131c47e7b1f" width="600" />
+
+See [BIRD Systems](BIRDsystems.md) and [Map Models](MapModels.md) to make advanced models.
 
 ## Payouts
 
